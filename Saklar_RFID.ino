@@ -18,7 +18,6 @@
  
   
   void loop() {
-  s
     if ( !mfrc522.PICC_IsNewCardPresent()) {
       return;
     }
