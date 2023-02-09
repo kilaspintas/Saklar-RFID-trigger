@@ -5,4 +5,5 @@ Perangkat yang digunakan
 2. Modul RFID RC522
 3. LED
 4. Kabel jumper untuk penghubung antar perangkat
+5. Resistor(Opsional)
 <img src="Skema.png">
